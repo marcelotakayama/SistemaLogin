@@ -1,3 +1,4 @@
+# Fazendo a importação das bibliotecas
 from tkinter import *
 from tkinter import messagebox
 
