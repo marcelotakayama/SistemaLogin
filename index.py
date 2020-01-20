@@ -31,7 +31,7 @@ UserLabel = Label(RightFrame, text="Username:", font=("Century Gothic", 20), bg=
 UserLabel.place(x=5, y=100)
 
 UserEntry = ttk.Entry(RightFrame, width = 30)
-UserEntry.place(x=175, y=100)
+UserEntry.place(x=150, y=110)
 
 
 jan.mainloop()
