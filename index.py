@@ -34,4 +34,7 @@ UserEntry = ttk.Entry(RightFrame, width = 30)
 UserEntry.place(x=150, y=110)
 
 
+# VERIFICAR O PMOTIVO PELO QUAL O CAMPO DE LOGIN ESTA PREENCHENDO TODA A TELA
+# AO INVES DE APENAS UMA PARTE DELA !!
+
 jan.mainloop()
